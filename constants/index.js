@@ -32,10 +32,7 @@ export const navLinks = [
       linkName: "Careers",
       href: "/careers"
     },
-    {
-      linkName: "Contact us",
-      href: "/contact-us"
-    }
+   
 
   ]
 ;
